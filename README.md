@@ -1,1 +1,1 @@
-Writer, developer, perpetual amateur.
+Person.
